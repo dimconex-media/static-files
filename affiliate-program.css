@@ -20,6 +20,12 @@ h6{
     margin-bottom: 0px !important;
 }
 
+.space-y-6.px-8.pb-8.pt-8 .flex-1.space-y-4.mt-4 .flex.items-center.justify-between.gap-6 button{
+    position: absolute !important;
+    top: 16px;
+    right: 16px;
+}
+
 .relative.h-20.w-20.flex-shrink-0.rounded.bg-white.bg-cover.bg-center{
     width: 4rem !important;
     height: 4rem !important;
