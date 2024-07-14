@@ -28,6 +28,6 @@ h6{
 
 
 /* LOGIN - SIGNUP PAGES */
-.flex.w-full.lg:w-5/12 .max-w-md{
+.flex.flex-1.lg:px-20.px-6.xl:px-24.py-12.overflow-y-auto .max-w-md{
     max-width: 450px !important;
 }
