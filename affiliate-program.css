@@ -9,6 +9,10 @@ h6{
     line-height: 1.2;
 } 
 
+
+
+/* INTRO PAGE - HOW IT WORKS? */
+
 .flex.flex-col.items-start.space-y-4 img{
     width: 48px;
     margin-bottom: 4px;
@@ -20,4 +24,10 @@ h6{
 
 .flex.flex-col.items-start.space-y-4 h3 + div{
     font-size: 14px !important;
+}
+
+
+/* LOGIN - SIGNUP PAGES */
+.flex.w-full.lg:w-5/12 .max-w-md{
+    max-width: 450px;
 }
