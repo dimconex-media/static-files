@@ -11,6 +11,7 @@ h6{
 
 .flex.flex-col.items-start.space-y-4 img{
     width: 48px;
+    margin-bottom: 4px;
 }   
 
 .flex.flex-col.items-start.space-y-4 h3{
