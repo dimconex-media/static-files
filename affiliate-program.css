@@ -24,7 +24,7 @@ h6{
     position: absolute !important;
     top: 16px;
     right: 16px;
-    background: rgba(255, 255, 255, 0.75);
+    background: rgba(255, 255, 255, 0.9);
     color: #111;
     font-weight: 600;
     backdrop-filter: blur(12px);
