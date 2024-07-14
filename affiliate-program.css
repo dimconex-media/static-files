@@ -20,7 +20,7 @@ h6{
     margin-bottom: 0px !important;
 }
 
-.space-y-6.px-8.pb-8.pt-8 .flex-1.space-y-4.mt-4 p{
+.space-y-6.px-8.pb-8.pt-8 .flex-1.space-y-4.mt-4 .text-md space-y-2.text-gray-800.text-opacity-80{
     max-width: 70% !important;
 }
 
