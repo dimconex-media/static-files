@@ -29,5 +29,5 @@ h6{
 
 /* LOGIN - SIGNUP PAGES */
 .flex.w-full.lg:w-5/12 .max-w-md{
-    max-width: 450px;
+    max-width: 450px !important;
 }
