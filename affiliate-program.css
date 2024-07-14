@@ -11,6 +11,13 @@ h6{
 
 
 
+/* INTRO PAGE */
+.relative.h-20.w-20.flex-shrink-0.rounded.bg-white.bg-cover.bg-center{
+    width: 5rem !important;
+    height: 5rem !important;
+}
+
+
 /* INTRO PAGE - HOW IT WORKS? */
 
 .flex.flex-col.items-start.space-y-4 img{
@@ -25,6 +32,7 @@ h6{
 .flex.flex-col.items-start.space-y-4 h3 + div{
     font-size: 14px !important;
 }
+
 
 
 /* LOGIN - SIGNUP PAGES */
