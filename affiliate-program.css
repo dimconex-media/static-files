@@ -36,6 +36,7 @@ h6{
     color: #111;
     font-weight: 600;
     backdrop-filter: blur(12px);
+    font-size: 14px;
 }
 
 .space-y-6.px-8.pb-8.pt-8 .flex-1.space-y-4.mt-4 .flex.items-center.justify-between.gap-6 button:hover{
