@@ -52,6 +52,11 @@ h6{
     height: 4rem !important;
 }
 
+.grid.gap-12 .flex.flex-col.items-start.space-y-4 img{
+    width: 100%;
+    margin-bottom: 0;
+}
+
 
 /* INTRO PAGE - HOW IT WORKS? */
 
