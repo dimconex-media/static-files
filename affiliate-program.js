@@ -4,6 +4,8 @@ window.addEventListener('load', function() {
         const appElement = document.querySelector('#app');
         
         if (appElement) {
+            appElement.classList.add('auth-page');
+            
             const newDiv = document.createElement('div');
             newDiv.id = 'topbar';
             
