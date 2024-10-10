@@ -76,6 +76,12 @@ h6{
 
 
 /* LOGIN - SIGNUP PAGES */
+#app > .flex-1.h-screen.flex.overflow-hidden{
+    height: auto !important;
+    min-height: 100vh;
+    overflow: auto!important;
+}
+
 .flex.flex-1.lg:px-20.px-6.xl:px-24.py-12.overflow-y-auto .max-w-md{
     max-width: 450px !important;
 }
