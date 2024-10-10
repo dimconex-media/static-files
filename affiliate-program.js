@@ -1,6 +1,6 @@
 window.addEventListener('load', function() {
     const url = window.location.href;
-    if (url.includes('login') || url.includes('register')) {
+    if (url.includes('login') || url.includes('register') || url.includes('password/request')) {
         const appElement = document.querySelector('#app');
         
         if (appElement) {
