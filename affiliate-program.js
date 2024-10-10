@@ -7,7 +7,7 @@ window.addEventListener('load', function() {
             const newDiv = document.createElement('div');
             newDiv.id = 'topbar';
             
-            newDiv.innerHTML = '<img src="https://dimconex-media.github.io/static-files/logo_affiliate_program.png"/><a href="//cathopic.com">Back to cathopic.com</a>';
+            newDiv.innerHTML = '<img src="https://dimconex-media.github.io/static-files/logo_affiliate_program.png"/><a href="//cathopic.com">cathopic.com ↗</a>';
             
             appElement.appendChild(newDiv);
         } else {
