@@ -84,6 +84,11 @@ h6{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 20px;
+}
+
+#topbar img{
+    height: 40px;
 }
 
 #app > .flex-1.h-screen.flex.overflow-hidden{
