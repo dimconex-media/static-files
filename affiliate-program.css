@@ -91,6 +91,15 @@ h6{
     height: 40px;
 }
 
+#topbar a{
+    opacity: 0.75;
+}
+
+#topbar a:hover{
+    opacity: 1;
+    text-decoration: underline;
+}
+
 #app > .flex-1.h-screen.flex.overflow-hidden{
     height: auto !important;
     min-height: 100vh;
