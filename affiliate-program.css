@@ -104,16 +104,6 @@ h6{
     flex-direction: column-reverse;
 }
 
-@media screen and (max-width: 600px){
-    #topbar{
-        position: relative;
-    }
-
-    #topbar img{
-        height: 28px;
-    }
-}
-
 #app.auth-page h2{
     margin-bottom: 12px;
     font-size: 28px;
@@ -131,4 +121,14 @@ h6{
 
 .flex.flex-1.lg:px-20.px-6.xl:px-24.py-12.overflow-y-auto .max-w-md{
     max-width: 450px !important;
+}
+
+@media screen and (max-width: 600px){
+    #topbar{
+        position: relative;
+    }
+
+    #topbar img{
+        height: 32px;
+    }
 }
