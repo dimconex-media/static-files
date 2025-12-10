@@ -104,7 +104,6 @@ h6{
     flex-direction: column-reverse;
     padding: 0;
     display: flex;
-    gap: 32px;
 }
 
 #app.auth-page h2{
