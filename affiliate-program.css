@@ -124,7 +124,7 @@ h6{
     max-width: 450px !important;
 }
 
-.text-custom-text{
+.bg-custom-primary nav + div .text-custom-text{
     color: white !important;
 }
 
